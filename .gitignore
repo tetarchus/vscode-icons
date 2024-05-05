@@ -3,7 +3,6 @@ app
 out
 .vscode-test/**
 npm-debug.log
-package-lock.json
 *.vsix
 icons.json
-*.lock
+.DS_Store
