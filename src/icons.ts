@@ -5,19 +5,19 @@ const iconsets = ['teticons-dark', 'teticons-light'];
 const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
   const icon = (name: string): Icon => ({
     [`_f_${name}`]: {
-      iconPath: `./icons/${theme}/${name}.svg`,
+      iconPath: `../icons/${theme}/${name}.svg`,
     },
   });
 
   const iconGeneric = (name: string): Icon => ({
     [`_${name}`]: {
-      iconPath: `./icons/${theme}/${name}.svg`,
+      iconPath: `../icons/${theme}/${name}.svg`,
     },
   });
 
   const folderIcon = (name: string): Icon => ({
     [`_fd_${name}`]: {
-      iconPath: `./icons/${theme}/${name}.svg`,
+      iconPath: `../icons/${theme}/${name}.svg`,
     },
   });
 

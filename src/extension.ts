@@ -5,7 +5,7 @@ import { generateIcons, iconsets } from './icons';
 
 for (const iconset of iconsets) {
   fs.writeFile(
-    `${iconset}.json`,
+    `out/${iconset}.json`,
     JSON.stringify({
       hideExplorerArrows: true,
       iconDefinitions: generateIcons(iconset),
