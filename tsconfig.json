@@ -3,6 +3,7 @@
     "allowJs": true,
     "module": "ESNext",
     "target": "ESNext",
+    "moduleResolution": "Bundler",
     "outDir": "out",
     "lib": ["ESNext"],
     "sourceMap": true,
@@ -10,5 +11,5 @@
     "strict": true,
     "esModuleInterop": true
   },
-  "exclude": ["node_modules", ".vscode-test", "eslint.config.js"]
+  "exclude": ["node_modules", ".vscode-test", "eslint.config.js", "out", "tsup.config.ts"]
 }

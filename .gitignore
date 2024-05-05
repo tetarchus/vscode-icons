@@ -4,5 +4,6 @@ out
 .vscode-test/**
 npm-debug.log
 *.vsix
-icons.json
+icons-dark.json
+icons-light.json
 .DS_Store
