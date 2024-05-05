@@ -1,7 +1,7 @@
 {
   "name": "teticons",
   "displayName": "TetIcons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Icons for Visual Studio Code.",
   "categories": [
     "Other",
@@ -44,12 +44,12 @@
       {
         "id": "teticons-dark",
         "label": "TetIcons Dark",
-        "path": "./icons-dark.json"
+        "path": "./teticons-dark.json"
       },
       {
         "id": "teticons-light",
         "label": "TetIcons Light",
-        "path": "./icons-light.json"
+        "path": "./teticons-light.json"
       }
     ]
   },
