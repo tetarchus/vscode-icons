@@ -17,3 +17,7 @@ Initial Release
 - Add custom typescript definition file extension mapping (`.t.ts` and `.i.ts`)
 - Move output `.json` files to the `out` directory for cleaner main dir
 - Move `.vsix` file output to `.vscode/releases` for cleaner main dir
+
+# v1.0.3
+
+- Add additional custom typescript definition icon extension mappings (`.types.ts` and `.type.ts`)
