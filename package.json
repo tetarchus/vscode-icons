@@ -36,7 +36,7 @@
   "scripts": {
     "build": "tsup && node ./out/extension.js",
     "build:package": "npm run build && npm run package",
-    "build:publish": "npm run build:package && vsce publish --packagePath .vscode/releases",
+    "build:publish": "npm run build:package && vsce publish --skip-duplicate --packagePath .vscode/releases/teticons-*.vsix",
     "lint": "eslint .",
     "package": "vsce package --out .vscode/releases"
   },
