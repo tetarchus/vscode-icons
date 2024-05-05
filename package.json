@@ -35,21 +35,22 @@
   "main": "./out/extension.js",
   "scripts": {
     "build": "tsup && node ./out/extension.js",
-    "build:publish": "npm run build && npm run package && vsce publish",
+    "build:package": "npm run build && npm run package",
+    "build:publish": "npm run build:package && vsce publish --packagePath .vscode/releases",
     "lint": "eslint .",
-    "package": "vsce package"
+    "package": "vsce package --out .vscode/releases"
   },
   "contributes": {
     "iconThemes": [
       {
         "id": "teticons-dark",
         "label": "TetIcons Dark",
-        "path": "./teticons-dark.json"
+        "path": "./out/teticons-dark.json"
       },
       {
         "id": "teticons-light",
         "label": "TetIcons Light",
-        "path": "./teticons-light.json"
+        "path": "./out/teticons-light.json"
       }
     ]
   },
