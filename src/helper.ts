@@ -1,5 +1,7 @@
-export const make = (itemList: string[], scope: string) => {
+const make = (itemList: string[], scope: string) => {
   let obj = {};
-  itemList.forEach((item) => (obj = { [item]: scope, ...obj }));
+  itemList.forEach(item => (obj = { [item]: scope, ...obj }));
   return obj;
 };
+
+export { make };

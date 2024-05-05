@@ -1,17 +1,17 @@
-import fs from "fs";
-import generator from "./generator";
-import icons from "./icons";
+import fs from 'fs';
+import { generator } from './generator';
+import { icons } from './icons';
 
 fs.writeFile(
-  "icons.json",
+  'icons.json',
   JSON.stringify({
     hidesExplorerArrows: true,
     iconDefinitions: icons,
     ...generator,
   }),
-  (err) => {
+  err => {
     if (err) {
-      console.log("error", err);
+      console.log('error', err);
     }
-  }
+  },
 );
