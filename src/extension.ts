@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import { generator } from './generator';
 import { generateIcons, iconsets } from './icons';
 
-for (const iconset in iconsets) {
+for (const iconset of iconsets) {
   fs.writeFile(
     `${iconset}.json`,
     JSON.stringify({
