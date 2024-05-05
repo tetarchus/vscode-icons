@@ -1,6 +1,6 @@
 {
   "name": "teticons",
-  "displayName": "Teticons",
+  "displayName": "TetIcons",
   "version": "1.0.0",
   "description": "Icons for Visual Studio Code.",
   "categories": [
@@ -66,7 +66,7 @@
     "vsce": "2.15.0"
   },
   "engines": {
-    "vscode": "^1.63.0"
+    "vscode": "^1.74.0"
   },
   "icon": "icon.png",
   "galleryBanner": {
