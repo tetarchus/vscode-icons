@@ -545,6 +545,8 @@ const fileExtensions = {
   tw: '_f_twine',
   twee: '_f_twine',
   'types/ts': '_f_typescriptdef',
+  'i.ts': '_f_typescriptdef',
+  't.ts': '_f_typescriptdef',
   'd.ts': '_f_typescriptdef',
   ts: '_f_typescript',
   iuml: '_f_uml',
