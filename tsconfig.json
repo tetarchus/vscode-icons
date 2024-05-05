@@ -1,13 +1,14 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "target": "ES2020",
+    "allowJs": true,
+    "module": "ESNext",
+    "target": "ESNext",
     "outDir": "out",
-    "lib": ["ES2020"],
+    "lib": ["ESNext"],
     "sourceMap": true,
     "rootDir": "src",
     "strict": true,
     "esModuleInterop": true
   },
-  "exclude": ["node_modules", ".vscode-test"]
+  "exclude": ["node_modules", ".vscode-test", "eslint.config.js"]
 }
