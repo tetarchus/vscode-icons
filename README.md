@@ -10,10 +10,10 @@
 <h4 align="center">Get the Icons into your VS Code.</h4>
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/version-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=VERSION" alt="Version"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/rating-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Rating" alt="Rating"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/installs-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Installs" alt="Installs"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/downloads-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Downloads" alt="Downloads"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/version-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=00C7AC&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/rating-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=00C7AC&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/installs-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=00C7AC&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/downloads-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=00C7AC&label=Downloads" alt="Downloads"></a>
 </p>
 
 ## File icons
