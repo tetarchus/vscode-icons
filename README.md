@@ -27,10 +27,10 @@
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-1. Search for **@tetarchus/icons**
-1. Click Install
-1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > File Icon Theme ＞ **Icons**
+2. Search for **TetIcons**
+3. Click Install
+4. Click Reload to reload your editor
+5. Select the Manage Cog (bottom left) > File Icon Theme ＞ **TetIcons Dark** / **TetIcons Light**
 
 ## How to use
 
