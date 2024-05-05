@@ -1,17 +1,20 @@
-import fs from 'fs';
-import { generator } from './generator';
-import { icons } from './icons';
+import fs from 'node:fs';
 
-fs.writeFile(
-  'icons.json',
-  JSON.stringify({
-    hidesExplorerArrows: true,
-    iconDefinitions: icons,
-    ...generator,
-  }),
-  err => {
-    if (err) {
-      console.log('error', err);
-    }
-  },
-);
+import { generator } from './generator';
+import { generateIcons, iconsets } from './icons';
+
+for (const iconset in iconsets) {
+  fs.writeFile(
+    `${iconset}.json`,
+    JSON.stringify({
+      hideExplorerArrows: true,
+      iconDefinitions: generateIcons(iconset),
+      ...generator,
+    }),
+    err => {
+      if (err) {
+        console.error('error', err);
+      }
+    },
+  );
+}
