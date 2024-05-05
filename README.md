@@ -9,12 +9,12 @@
 
 <h4 align="center">Get the Icons into your VS Code.</h4>
 
-<!-- <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.icons"><img src="https://vsmarketplacebadges.dev/version-short/tetarchus.icons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=VERSION" alt="Version"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.icons"><img src="https://vsmarketplacebadges.dev/rating-short/tetarchus.icons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Rating" alt="Rating"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.icons"><img src="https://vsmarketplacebadges.dev/installs-short/tetarchus.icons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Installs" alt="Installs"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.icons"><img src="https://vsmarketplacebadges.dev/downloads-short/tetarchus.icons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Downloads" alt="Downloads"></a>
-</p> -->
+<p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/version-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/rating-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/installs-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/downloads-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Downloads" alt="Downloads"></a>
+</p>
 
 ## File icons
 
@@ -35,7 +35,8 @@
 ## How to use
 
 After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or
-`Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `Icons`.
+`Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `TetIcons Dark` or
+`TetIcons Light`.
 
 ## Want more?
 
@@ -56,7 +57,7 @@ want.
 
 This project exists thanks to all the people who contribute.
 
-<a href="https://github.com/tal7aouy/vscode-icons/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=tal7aouy/vscode-icons"/>
+<a href="https://github.com/tetarchus/vscode-icons/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=tetarchus/vscode-icons"/>
 
 </a>
