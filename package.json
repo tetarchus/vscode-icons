@@ -2,7 +2,6 @@
   "name": "teticons",
   "displayName": "Teticons",
   "version": "1.0.0",
-  "type": "module",
   "description": "Icons for Visual Studio Code.",
   "categories": [
     "Other",
@@ -32,6 +31,7 @@
     }
   ],
   "publisher": "tetarchus",
+  "type": "module",
   "main": "./out/extension.js",
   "scripts": {
     "build": "tsup && node ./out/extension.js",
