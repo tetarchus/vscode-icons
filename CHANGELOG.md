@@ -21,3 +21,12 @@ Initial Release
 # v1.0.3
 
 - Add additional custom typescript definition icon extension mappings (`.types.ts` and `.type.ts`)
+
+# v1.0.4
+
+- Add `eslint` config file mappings for flat configs
+  (`eslint.config.js`,`eslint.config.cjs`,`eslint.config.mjs` and `eslint.config.ts` - support for
+  TS coming soon (see https://github.com/eslint/rfcs/pull/117 and
+  https://github.com/eslint/eslint/pull/18134 ))
+- Add `.server` and `.client` folder mappings (Remix standard foldernames)
+- Add `vscode` file icon for `.code-workspace` files
