@@ -16,14 +16,6 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=tetarchus.teticons"><img src="https://vsmarketplacebadges.dev/downloads-short/tetarchus.teticons.jpg?style=for-the-badge&colorA=252526&colorB=00C7AC&label=Downloads" alt="Downloads"></a>
 </p>
 
-## File icons
-
-<img src="./images/fileIcons.png" alt="file icons">
-
-### Folder icons
-
-<img src="./images/folderIcons.png" alt="folder icons">
-
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
@@ -38,6 +30,14 @@ After installation and activation, you should go in settings (`File` → `Prefer
 `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `TetIcons Dark` or
 `TetIcons Light`.
 
+## File icons
+
+<img src="./images/fileIcons.png" alt="file icons">
+
+### Folder icons
+
+<img src="./images/folderIcons.png" alt="folder icons">
+
 ## Want more?
 
 I can add more icons if you need,
@@ -51,7 +51,7 @@ want.
 ## Icon sources
 
 - [Material Design Icons](https://materialdesignicons.com/)
-- official icons
+- Official icons
 
 ### Contributors
 
@@ -59,5 +59,4 @@ This project exists thanks to all the people who contribute.
 
 <a href="https://github.com/tetarchus/vscode-icons/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=tetarchus/vscode-icons"/>
-
 </a>
