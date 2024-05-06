@@ -60,3 +60,9 @@ This project exists thanks to all the people who contribute.
 <a href="https://github.com/tetarchus/vscode-icons/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=tetarchus/vscode-icons"/>
 </a>
+
+### TODO
+
+- ? Add icon for `tsup.config.ts` files
+- Update `nx`/`nrwl` icon to new `nx` icon
+- Add `nx` folder icons for `.nx` folders
