@@ -576,6 +576,7 @@ const fileExtensions = {
   vdi: '_f_virtual',
   vbox: '_f_virtual',
   'vbox-prev': '_f_virtual',
+  'code-workspace': '_f_visualstudio',
   csproj: '_f_visualstudio',
   ruleset: '_f_visualstudio',
   sln: '_f_visualstudio',
