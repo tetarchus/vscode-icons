@@ -403,6 +403,7 @@ const folderNamesExpanded = {
   node_modules: '_fd_folder_node_open',
   '.nuxt': '_fd_folder_nuxt_open',
   nuxt: '_fd_folder_nuxt_open',
+  '.nx': 'fd_folder_nx_open',
   other: '_fd_folder_other_open',
   others: '_fd_folder_other_open',
   misc: '_fd_folder_other_open',

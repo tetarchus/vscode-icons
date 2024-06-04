@@ -551,6 +551,8 @@ const fileExtensions = {
   'types.ts': '_f_typescriptdef',
   'types/ts': '_f_typescriptdef',
   ts: '_f_typescript',
+  cts: '_f_typescript',
+  mts: '_f_typescript',
   iuml: '_f_uml',
   pu: '_f_uml',
   puml: '_f_uml',

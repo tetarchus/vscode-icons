@@ -404,6 +404,7 @@ const folderNames = {
   node_modules: '_fd_folder_node',
   '.nuxt': '_fd_folder_nuxt',
   nuxt: '_fd_folder_nuxt',
+  '.nx': 'fd_folder_nx',
   other: '_fd_folder_other',
   others: '_fd_folder_other',
   misc: '_fd_folder_other',
