@@ -30,3 +30,13 @@ Initial Release
   https://github.com/eslint/eslint/pull/18134 ))
 - Add `.server` and `.client` folder mappings (Remix standard foldernames)
 - Add `vscode` file icon for `.code-workspace` files
+
+# v1.0.5
+
+- Add new icons for `commitizen`, `swc` and `nx`
+- Add `.cts` and `.mts` config options for webpack, vite, tailwind and postcss
+- Add default file icon for `.cts` and `.mts`
+- Add icons for `.swcrc` and `.czrc` files
+- Update `nx.json` icon to new `NX` icon, and add for `project.json` as well
+- Add `.nx` folder icon
+- Use `tsconfig` icon for `tsconfig.storybook.json` and `tsconfig.sb.json`
