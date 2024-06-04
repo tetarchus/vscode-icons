@@ -40,3 +40,8 @@ Initial Release
 - Update `nx.json` icon to new `NX` icon, and add for `project.json` as well
 - Add `.nx` folder icon
 - Use `tsconfig` icon for `tsconfig.storybook.json` and `tsconfig.sb.json`
+
+# v1.0.6
+
+- Fix `.nx` folder mapping typo
+- Lighten `nx` icon for dark icons
