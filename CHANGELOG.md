@@ -45,3 +45,9 @@ Initial Release
 
 - Fix `.nx` folder mapping typo
 - Lighten `nx` icon for dark icons
+-
+
+# v1.0.7
+
+- Fix cut-off `nx` folder icons
+- Add `.mocks` folder alias for `__mocks__`
