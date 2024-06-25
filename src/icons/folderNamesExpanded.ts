@@ -542,6 +542,7 @@ const folderNamesExpanded = {
   __test__: '_fd_folder_test_open',
   __snapshots__: '_fd_folder_test_open',
   __mocks__: '_fd_folder_test_open',
+  '.mocks': '_fd_folder_test_open',
   spec: '_fd_folder_test_open',
   specs: '_fd_folder_test_open',
   theme: '_fd_folder_theme_open',

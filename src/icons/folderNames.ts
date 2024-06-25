@@ -543,6 +543,7 @@ const folderNames = {
   __test__: '_fd_folder_test',
   __snapshots__: '_fd_folder_test',
   __mocks__: '_fd_folder_test',
+  '.mocks': '_fd_folder_test',
   spec: '_fd_folder_test',
   specs: '_fd_folder_test',
   theme: '_fd_folder_theme',
