@@ -64,5 +64,3 @@ This project exists thanks to all the people who contribute.
 ### TODO
 
 - ? Add icon for `tsup.config.ts` files
-- Update `nx`/`nrwl` icon to new `nx` icon
-- Add `nx` folder icons for `.nx` folders

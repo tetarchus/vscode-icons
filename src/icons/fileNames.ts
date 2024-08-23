@@ -263,6 +263,7 @@ const fileNames = {
   '.env.schema': '_f_env',
   '.env.local': '_f_env',
   '.env.dev': '_f_env',
+  '.env.develop': '_f_env',
   '.env.development': '_f_env',
   '.env.qa': '_f_env',
   '.env.dist': '_f_env',

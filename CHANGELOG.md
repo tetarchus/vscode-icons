@@ -51,3 +51,7 @@ Initial Release
 
 - Fix cut-off `nx` folder icons
 - Add `.mocks` folder alias for `__mocks__`
+
+# v1.0.8
+
+- Add `.env.develop` as `.env` alias
