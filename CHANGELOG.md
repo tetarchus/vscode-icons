@@ -55,3 +55,5 @@ Initial Release
 # v1.0.8
 
 - Add `.env.develop` as `.env` alias
+- Add `yml` -> `yaml` aliases
+- Add `tsconfig.test.json` as `tsconfig`
