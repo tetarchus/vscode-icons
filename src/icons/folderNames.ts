@@ -367,6 +367,7 @@ const folderNames = {
   messages: '_fd_folder_messages',
   messaging: '_fd_folder_messages',
   forum: '_fd_folder_messages',
+  forums: '_fd_folder_messages',
   chat: '_fd_folder_messages',
   chats: '_fd_folder_messages',
   conversation: '_fd_folder_messages',

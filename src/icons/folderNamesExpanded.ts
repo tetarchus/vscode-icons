@@ -366,6 +366,7 @@ const folderNamesExpanded = {
   messages: '_fd_folder_messages_open',
   messaging: '_fd_folder_messages_open',
   forum: '_fd_folder_messages_open',
+  forums: '_fd_folder_messages_open',
   chat: '_fd_folder_messages_open',
   chats: '_fd_folder_messages_open',
   conversation: '_fd_folder_messages_open',
