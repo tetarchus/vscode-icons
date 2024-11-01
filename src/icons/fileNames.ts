@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/naming-convention */
 import { make } from '../helper';
 import { webpack } from '../defaults/bundler';
 

@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/naming-convention */
 const folderNamesExpanded = {
   admin: '_fd_folder_admin_open',
   android: '_fd_folder_android_open',
