@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/naming-convention */
 const folderNames = {
   admin: '_fd_folder_admin',
   android: '_fd_folder_android',
@@ -56,7 +55,6 @@ const folderNames = {
   measure: '_fd_folder_benchmark',
   measures: '_fd_folder_benchmark',
   measurement: '_fd_folder_benchmark',
-  // eslint-disable-next-line @typescript-eslint/naming-convention
   bower_components: '_fd_folder_bower',
   cart: '_fd_folder_cart',
   'shopping-cart': '_fd_folder_cart',
