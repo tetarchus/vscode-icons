@@ -45,7 +45,6 @@ Initial Release
 
 - Fix `.nx` folder mapping typo
 - Lighten `nx` icon for dark icons
--
 
 # v1.0.7
 
@@ -55,5 +54,8 @@ Initial Release
 # v1.0.8
 
 - Add `.env.develop` as `.env` alias
+
+# v1.0.9
+
 - Add `yml` -> `yaml` aliases
 - Add `tsconfig.test.json` as `tsconfig`
