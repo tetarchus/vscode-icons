@@ -647,6 +647,7 @@ const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
     ...icon('react'),
     ...icon('reactts'),
     ...icon('readme'),
+    ...icon('react-router'),
     ...icon('reason'),
     ...icon('red'),
     ...icon('redhat'),
