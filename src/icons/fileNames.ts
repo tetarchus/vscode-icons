@@ -550,6 +550,8 @@ const fileNames = {
   'readme.md': '_f_readme',
   'readme.txt': '_f_readme',
   readme: '_f_readme',
+  'react-router.config.ts': '_f_react-router',
+  'react-router.config.js': '_f_react-router',
   '.s2iignore': '_f_redhat',
   'remix.config.js': '_f_remix',
   'remix.config.ts': '_f_remix',

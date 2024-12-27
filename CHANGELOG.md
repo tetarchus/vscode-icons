@@ -59,3 +59,5 @@ Initial Release
 
 - Add `yml` -> `yaml` aliases
 - Add `tsconfig.test.json` as `tsconfig`
+
+# v1.0.10
