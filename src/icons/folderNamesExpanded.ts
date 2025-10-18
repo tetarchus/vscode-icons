@@ -86,7 +86,7 @@ const folderNamesExpanded = {
   '.public': '_fd_folder_public_open',
   '.pytest_cache': '_fd_folder_python_open',
   '.quasar': '_fd_folder_quasar_open',
-  '.react-router': '_fd_folder-react-router_open',
+  '.react-router': '_fd_folder_react-router_open',
   '.robot': '_fd_folder_robot_open',
   '.s2i': '_fd_folder_red_hat_open',
   '.server': '_fd_folder_server_open',
