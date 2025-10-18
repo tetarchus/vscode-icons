@@ -138,6 +138,7 @@ const folderNamesExpanded = {
   api: '_fd_folder_api_open',
   apollo: '_fd_folder_apollo_open',
   app: '_fd_folder_app_open',
+  apps: '_fd_folder_app_open',
   archival: '_fd_folder_archive_open',
   archive: '_fd_folder_archive_open',
   archives: '_fd_folder_archive_open',
