@@ -86,6 +86,7 @@ const folderNames = {
   '.public': '_fd_folder_public',
   '.pytest_cache': '_fd_folder_python',
   '.quasar': '_fd_folder_quasar',
+  '.react-router': '_fd_folder-react-router',
   '.robot': '_fd_folder_robot',
   '.s2i': '_fd_folder_red_hat',
   '.server': '_fd_folder_server',
