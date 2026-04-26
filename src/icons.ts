@@ -22,9 +22,6 @@ const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
   });
 
   return {
-    ...iconGeneric('file'),
-    ...iconGeneric('folder_open'),
-    ...iconGeneric('folder'),
     ...folderIcon('folder_admin_open'),
     ...folderIcon('folder_admin'),
     ...folderIcon('folder_android_open'),
@@ -281,8 +278,8 @@ const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
     ...folderIcon('folder_query'),
     ...folderIcon('folder_queue_open'),
     ...folderIcon('folder_queue'),
-    ...folderIcon('folder_react-router'),
     ...folderIcon('folder_react-router_open'),
+    ...folderIcon('folder_react-router'),
     ...folderIcon('folder_red_hat_open'),
     ...folderIcon('folder_red_hat'),
     ...folderIcon('folder_repository_open'),
@@ -613,6 +610,7 @@ const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
     ...icon('opa'),
     ...icon('opam'),
     ...icon('opengl'),
+    ...icon('oxc'),
     ...icon('pawn'),
     ...icon('pdf'),
     ...icon('percy'),
@@ -646,10 +644,10 @@ const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
     ...icon('racket'),
     ...icon('raml'),
     ...icon('razor'),
+    ...icon('react-router'),
     ...icon('react'),
     ...icon('reactts'),
     ...icon('readme'),
-    ...icon('react-router'),
     ...icon('reason'),
     ...icon('red'),
     ...icon('redhat'),
@@ -701,8 +699,8 @@ const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
     ...icon('svg'),
     ...icon('svgo'),
     ...icon('svgr'),
-    ...icon('swc'),
     ...icon('swc-compiler'),
+    ...icon('swc'),
     ...icon('swift'),
     ...icon('table'),
     ...icon('tailwind'),
@@ -722,6 +720,7 @@ const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
     ...icon('todo'),
     ...icon('travis'),
     ...icon('tsconfig'),
+    ...icon('tsdown'),
     ...icon('turborepo'),
     ...icon('twig'),
     ...icon('twine'),
@@ -764,6 +763,9 @@ const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
     ...icon('yarn'),
     ...icon('zig'),
     ...icon('zip'),
+    ...iconGeneric('file'),
+    ...iconGeneric('folder_open'),
+    ...iconGeneric('folder'),
   };
 };
 
