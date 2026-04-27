@@ -713,6 +713,8 @@ const generateIcons = (theme: (typeof iconsets)[number]): Icon => {
     ...icon('testjs'),
     ...icon('testjsx'),
     ...icon('testts'),
+    ...icon('testtsd'),
+    ...icon('testtsxd'),
     ...icon('tex'),
     ...icon('textlint'),
     ...icon('tobi'),
