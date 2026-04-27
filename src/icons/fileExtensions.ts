@@ -533,6 +533,8 @@ const fileExtensions = {
   template: '_f_template',
   tesc: '_f_opengl',
   tese: '_f_opengl',
+  'test-d.ts': '_f_testtsd',
+  'test-d.tsx': '_f_testtxsd',
   'test.cjs': '_f_testjs',
   'test.js': '_f_testjs',
   'test.jsx': '_f_testjsx',
